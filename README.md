@@ -28,3 +28,10 @@ Upon more research I found out that the cookie present in the above stream means
 3.	23.227.198.203 (bupdater.com) – This ip is beaconing with bupdater.com on port 757. And if we use it on virus total it is flagged as a malware. 
 <img src="https://i.imgur.com/7G1NuTR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Lr95sNf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+Domains and IP Address for Iced bot
+oceriesfornot[.]top	http://188.166.154.118/
+antnosience[.]com	157.245.142.66
+suncoastpinball[.]com	160.153.32.99
+otectagain[.]top	157.245.142.66
+seaskysafe[.]com		91.193.16.181
+dilimoretast[.]com	160.153.32.99
