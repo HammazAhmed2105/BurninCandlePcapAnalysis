@@ -11,3 +11,7 @@ Write an incident report. (With Explanation)
 2.	Host IP and Mac Address – 10.0.19.14 & 00:60:52:b7:33:0f
 3.	Windows User name - patrick.zimmerman
 4.	Time of infection – Monday 2022-03-21
+<h2>Explanation</h2>
+– Few steps that I like to follow in order to get the above details easily in by filtering Kerberos Traffic. Usually the host name and windows user are both present here. For this case, I used the below packets which says 303 AS-REQ Follow the stream for both and we get the information.
+<img src="https://i.imgur.com/o9dyOq5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l0q46eW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
